@@ -1,0 +1,1 @@
+Train Crash Survival Analysis :This project analyzes a training dataset related to a train crash, aiming to predict the survival of passengers based on various attributes. The dataset contains incomplete records, requiring data cleaning and processing before applying machine learning techniques.
